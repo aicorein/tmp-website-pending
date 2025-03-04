@@ -2,7 +2,7 @@
 
 https://glowmem.com 及其域下所有页面和数据，目前因为服务器数据丢失，暂时无法访问。
 
-所有相关数据正在抢修中，为您带来的不便敬请谅解。预计所有数据恢复和重新建设工作将于 GMT+8 2025.03.05 00:00:00 前完成。
+所有相关数据正在抢修中，为您带来的不便敬请谅解。预计所有数据恢复和重新建设工作将于 GMT+8 2025.03.07 00:00:00 前完成。
 
 如果您是被重定向到此页面的，请您暂时使用 [wayback machine](https://web.archive.org/) + 原始链接访问过去的页面。
 
@@ -12,7 +12,7 @@ https://glowmem.com 及其域下所有页面和数据，目前因为服务器数
 
 https://glowmem.com and all pages and data under its domain are currently inaccessible due to server data loss.
 
-All relevant data are being repaired, and we apologize for the inconvenience. It is expected that all data recovery and reconstruction work will be completed before GMT+8 2025.03.05 00:00:00.
+All relevant data are being repaired, and we apologize for the inconvenience. It is expected that all data recovery and reconstruction work will be completed before GMT+8 2025.03.07 00:00:00.
 
 If you are redirected to this page, please temporarily use [wayback machine](https://web.archive.org/) + original link to access the past page.
 
